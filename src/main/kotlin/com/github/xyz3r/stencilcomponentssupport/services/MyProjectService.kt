@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.xyz3r.stencilcomponentssupport.services
 
+import com.github.xyz3r.stencilcomponentssupport.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
